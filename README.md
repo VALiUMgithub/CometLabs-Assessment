@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deployed Link
 
-(https://learningonline-mauve.vercel.app/)
+https://comet-labs-assessment.vercel.app/
 
 ### Screenchots of the Website
 
